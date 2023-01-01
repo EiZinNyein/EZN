@@ -1,7 +1,7 @@
 
 <h3 align="center">Frontend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/EZN11](https://github.com/EiZinNyein)
+- 👨‍💻 All of my projects are available at [https://github.com/EZN11](https://github.com/EZN11)
 
 - 📫 How to reach me **eizindecember@gmail.com**
 
